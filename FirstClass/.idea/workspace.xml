@@ -2,37 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6dc1fd0b-9aa4-480c-8ce6-17760868b860" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operatory/KlasaMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operatory/OperatorTrojargumentowy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operatory/OperatoryRelacji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/podstawyJezykaJava/Komentarze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/podstawyJezykaJava/MistrzCzystegoKodu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/TabliceJednowymiarowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tablice/TabliceWielowymiarowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/KonwersjaIRzutowanie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/OpakowywanieTypowProstych.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/TypZnakowyILogiczny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/TypyCalkowitoliczbowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/TypyProste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/TypyZmiennoprzcinkowe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typyProsteDanychIZmienne/Zmienne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/EtykietyOrazBreakIContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/InstrukcjaReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/KonstrukcjaIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/KonstrukcjaSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/OperatorInstanceOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/PetleForOrazForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wyrazeniaSterujace/PetleWhileOrazDoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfejsy/Aplikacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfejsy/Czlowiek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfejsy/Informacje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfejsy/ProcesyKognitywne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfejsy/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyAbstrakcyjne/Aplikacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyAbstrakcyjne/Maszyna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyAbstrakcyjne/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyAnonimowe/Aplikacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Batman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Fabrykaprostokatow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/KlasyWewnetrzne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Komputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Przybornik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Rekurencja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/SlowoKluczoweFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Spiderman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/StatycznePolaOrazMetody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/Superbohater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/SuperbohaterowieWAkcji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Prostokat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/PrzeslanianieMetod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Trojkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wyrazeniaLambda/Aplikacja.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstClass/mojPierwszyPakiet/MojaPierwszaKlasainteliJ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstClass/mojPierwszyPakiet/MojaPierwszaKlasainteliJ.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstClass/podstawyJezykaJava/PrzykladowaKlasaJava$Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstClass/podstawyJezykaJava/PrzykladowaKlasaJava$Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstClass/podstawyJezykaJava/PrzykladowaKlasaJava.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstClass/podstawyJezykaJava/PrzykladowaKlasaJava.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mojPierwszyPakiet/MojaPierwszaKlasainteliJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mojPierwszyPakiet/MojaPierwszaKlasainteliJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/podstawyJezykaJava/PrzykladowaKlasaJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/podstawyJezykaJava/PrzykladowaKlasaJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StageOne/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StageOne/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StageOne/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StageOne/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StageOne/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StageOne/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstClass/wyrazeniaSterujace/OperatorInstanceOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FirstClass/wyrazeniaSterujace/OperatorInstanceOf.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,12 +39,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wyrazeniaLambda/Aplikacja.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -57,10 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/firstPackage/FirstClass.java" />
-        <option value="$PROJECT_DIR$/src/firstPackage/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/fibonacciPackage/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/podstawyJezykaJava/PrzykladowaKlasaJava.java" />
         <option value="$PROJECT_DIR$/src/podstawyJezykaJava/MistrzCzystegoKodu.java" />
         <option value="$PROJECT_DIR$/src/mojPierwszyPakiet/MojaPierwszaKlasainteliJ.java" />
         <option value="$PROJECT_DIR$/src/podstawyJezykaJava/Komentarze.java" />
@@ -83,6 +87,35 @@
         <option value="$PROJECT_DIR$/src/wyrazeniaSterujace/EtykietyOrazBreakIContinue.java" />
         <option value="$PROJECT_DIR$/src/wyrazeniaSterujace/InstrukcjaReturn.java" />
         <option value="$PROJECT_DIR$/src/wyrazeniaSterujace/OperatorInstanceOf.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Prostokat.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Fabrykaprostokatow.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Suprebohater.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/SuperbohaterowieWAkcji.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Batman.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Spiderman.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Figura.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/PrzeslanianieMetod.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Trojkat.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Figura.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Prostokat.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/SlowoKluczoweFinal.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Komputer.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/KlasyWewnetrzne.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Przybornik.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/StatycznePolaOrazMetody.java" />
+        <option value="$PROJECT_DIR$/src/Rekurencja.java" />
+        <option value="$PROJECT_DIR$/src/klasyOrazMetody/Rekurencja.java" />
+        <option value="$PROJECT_DIR$/src/interfejsy/Informacje.java" />
+        <option value="$PROJECT_DIR$/src/interfejsy/ProcesyKognitywne.java" />
+        <option value="$PROJECT_DIR$/src/interfejsy/Robot.java" />
+        <option value="$PROJECT_DIR$/src/interfejsy/Czlowiek.java" />
+        <option value="$PROJECT_DIR$/src/interfejsy/Aplikacja.java" />
+        <option value="$PROJECT_DIR$/src/klasyAbstrakcyjne/Maszyna.java" />
+        <option value="$PROJECT_DIR$/src/klasyAbstrakcyjne/Robot.java" />
+        <option value="$PROJECT_DIR$/src/klasyAbstrakcyjne/Aplikacja.java" />
+        <option value="$PROJECT_DIR$/src/klasyAnonimowe/Aplikacja.java" />
+        <option value="$PROJECT_DIR$/src/wyrazeniaLambda/Czlowiek.java" />
+        <option value="$PROJECT_DIR$/src/wyrazeniaLambda/Aplikacja.java" />
       </list>
     </option>
   </component>
@@ -128,12 +161,6 @@
               <item name="FirstClass" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FirstClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstClass" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="wyrazeniaSterujace" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -176,7 +203,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564147982910" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564409460017" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -197,20 +224,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OperatorInstanceOf">
+  <component name="RunManager" selected="Application.Aplikacja (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtykietyOrazBreakIContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wyrazeniaSterujace.EtykietyOrazBreakIContinue" />
+    <configuration name="Aplikacja (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klasyAnonimowe.Aplikacja" />
       <module name="FirstClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wyrazeniaSterujace.*" />
+          <option name="PATTERN" value="klasyAnonimowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,13 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorInstanceOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wyrazeniaSterujace.OperatorInstanceOf" />
+    <configuration name="Aplikacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfejsy.Aplikacja" />
       <module name="FirstClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wyrazeniaSterujace.*" />
+          <option name="PATTERN" value="interfejsy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,13 +259,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetleForOrazForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wyrazeniaSterujace.PetleForOrazForEach" />
+    <configuration name="KlasyWewnetrzne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klasyOrazMetody.KlasyWewnetrzne" />
       <module name="FirstClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wyrazeniaSterujace.*" />
+          <option name="PATTERN" value="klasyOrazMetody.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,13 +273,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetleWhileOrazDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="wyrazeniaSterujace.PetleWhileOrazDoWhile" />
+    <configuration name="Rekurencja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klasyOrazMetody.Rekurencja" />
       <module name="FirstClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="wyrazeniaSterujace.*" />
+          <option name="PATTERN" value="klasyOrazMetody.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,13 +287,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TabliceWielowymiarowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tablice.TabliceWielowymiarowe" />
+    <configuration name="StatycznePolaOrazMetody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="klasyOrazMetody.StatycznePolaOrazMetody" />
       <module name="FirstClass" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tablice.*" />
+          <option name="PATTERN" value="klasyOrazMetody.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,21 +331,26 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TabliceWielowymiarowe" />
-      <item itemvalue="Application.PetleWhileOrazDoWhile" />
-      <item itemvalue="Application.PetleForOrazForEach" />
-      <item itemvalue="Application.EtykietyOrazBreakIContinue" />
-      <item itemvalue="Application.OperatorInstanceOf" />
+      <item itemvalue="Application.KlasyWewnetrzne" />
+      <item itemvalue="Application.StatycznePolaOrazMetody" />
+      <item itemvalue="Application.Rekurencja" />
+      <item itemvalue="Application.Aplikacja" />
+      <item itemvalue="Application.Aplikacja (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperatorInstanceOf" />
-        <item itemvalue="Application.EtykietyOrazBreakIContinue" />
-        <item itemvalue="Application.PetleForOrazForEach" />
-        <item itemvalue="Application.PetleWhileOrazDoWhile" />
-        <item itemvalue="Application.TabliceWielowymiarowe" />
+        <item itemvalue="Application.Aplikacja (1)" />
+        <item itemvalue="Application.Aplikacja" />
+        <item itemvalue="Application.Rekurencja" />
+        <item itemvalue="Application.StatycznePolaOrazMetody" />
+        <item itemvalue="Application.KlasyWewnetrzne" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <replaceConfiguration name="user defined" created="1564390889336" text="Suprebohater" recursive="false" caseInsensitive="true" type="JAVA" scope_type="PROJECT" scope_descriptor="" reformatAccordingToStyle="false" shortenFQN="false" replacement="Superbohater" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </replaceConfiguration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -345,7 +377,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20095949" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +385,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.34994584" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -375,32 +407,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/fibonacciPackage/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/podstawyJezykaJava/Komentarze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/podstawyJezykaJava/MistrzCzystegoKodu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/podstawyJezykaJava/PrzykladowaKlasaJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -558,6 +564,301 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Prostokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#948#949#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Fabrykaprostokatow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Superbohater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/SuperbohaterowieWAkcji.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Batman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Spiderman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/PrzeslanianieMetod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Trojkat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Prostokat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/przeslanianieMetod/Figura.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Komputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/KlasyWewnetrzne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="117" selection-start-line="12" selection-start-column="117" selection-end-line="12" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/StatycznePolaOrazMetody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Przybornik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/SlowoKluczoweFinal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="73" selection-start-line="10" selection-start-column="73" selection-end-line="10" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyOrazMetody/Rekurencja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfejsy/Aplikacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfejsy/Czlowiek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfejsy/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="70" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfejsy/Informacje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interfejsy/ProcesyKognitywne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyAbstrakcyjne/Maszyna.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyAbstrakcyjne/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="90" selection-start-line="6" selection-start-column="90" selection-end-line="6" selection-end-column="90" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyAnonimowe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aplikacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyAbstrakcyjne/Aplikacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="85" selection-end-line="6" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/klasyAnonimowe/Aplikacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wyrazeniaLambda/Czlowiek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wyrazeniaLambda/Aplikacja.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
