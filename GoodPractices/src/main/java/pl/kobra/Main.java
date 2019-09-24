@@ -1,7 +1,7 @@
 package pl.kobra;
 
+import pl.kobra.repository.model.ContactItem;
 import pl.kobra.repository.ContactsRepo;
-import pl.kobra.repository.Finder;
 
 import java.util.Scanner;
 
@@ -23,10 +23,11 @@ public class Main {
     }
 
     private static void runSearchEngine() {
-        while (!input.contains(MenuOptions.EXIT.name())) {
-            for (String contact : contactsRepo.findContact(input)) {
+        while (!input.contains(MenuOptions.EXIT.name().toLowerCase())) {
+            for (ContactItem contact : contactsRepo.findContact(input)) {
                 System.out.println(contact);
             };
+            // no result - no info
             System.out.println(WELCOME_MESSAGE);
             input = scanner.nextLine();
         }

@@ -1,11 +1,14 @@
 package pl.kobra.repository;
 
+import pl.kobra.repository.model.ContactItem;
+
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.stream.Collectors;
 
-public class ContactsGenerator {
-     static Set<String> createContacts() {
+public class ContactsData {
+     static Set<ContactItem> getContactsFromCSV() {
         return new HashSet<>(Arrays.asList(
             "Val,Sheepy,vsheepy0@mlb.com,876-512-8314",
             "Worden,Bendare,wbendare1@howstuffworks.com,222-120-1943",
@@ -107,6 +110,6 @@ public class ContactsGenerator {
             "Harman,Staves,hstaves2p@list-manage.com,189-133-6912",
             "Bessy,Waszczykowski,bwaszczykowski2q@usnews.com,736-843-8515",
             "Martino,Birney,mbirney2r@barnesandnoble.com,748-326-1184"
-        ));
+        ).stream().map(x -> ContactItem.fromString(x)).collect(Collectors.toList()));
     }
 }
